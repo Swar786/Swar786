@@ -1,5 +1,5 @@
 
-<img align="" alt="banner" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="" alt="banner" width="150" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <h1 align="center">Hi 👋, I'm Swarnendu Sarkar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
